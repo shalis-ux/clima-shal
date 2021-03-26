@@ -7,7 +7,12 @@
     <!-- <img src="./svelte-climasha\src\Icon awesome-sun.png/" alt=""> -->
 	<h1>¡App {name}!</h1>
     <div id="search">
-        <input id="busqueda" class="Rectangle-5 Search " type="button-search">
+        <div>
+            <input id="busqueda" class="Rectangle-5 Search " type="button-search">
+        </div>
+        <div>
+            <img src="img/Icon awesome-search.png" alt="">
+        </div>
     </div>
     <div id="pais" class="pais">
         País
