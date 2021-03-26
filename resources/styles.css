@@ -1,0 +1,50 @@
+.Rectangle-5 {
+    width: 417px;
+    height: 73px;
+    margin: 27.5px 354px 54px 0;
+    padding: 17px 22px 17px 56px;
+    border-radius: 37px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    border: solid 1px #707070;
+    background-color: #ffffff;
+  }
+  .Search {
+    width: 106px;
+    height: 39px;
+    margin: 0px 197px 0 0;
+    opacity: 0.47;
+    font-family: HelveticaNeue;
+    font-size: 33px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: normal;
+    text-align: left;
+    color: #585858;
+  }
+  .Icon-awesome-search {
+    width: 36px;
+    height: 36px;
+    margin: 0 0 3px 197px;
+    object-fit: contain;
+    opacity: 0.31;
+    background-color: #585858;
+  }
+  .Icon-material-location-city {
+    width: 148px;
+    height: 156.2px;
+    margin: 0 0 30px 20.5px;
+    object-fit: contain;
+    background-color: #585858;
+  }
+.pais{
+color: rgb(0, 182, 189);
+border-color: rgb(2, 115, 119);
+}
+.ciudad
+{
+    color: rgb(1, 99, 102);
+    border-color: rgb(1, 99, 102);
+
+}
